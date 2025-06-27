@@ -1,0 +1,162 @@
+2025-06-27 21:35:44,796 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你好呀派蒙', 'user': 'user_1751031335', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 21:36:07,038 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '想听听你的声音', 'user': 'user_1751031335', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': 'bb4d1faf-5547-4b96-99bf-09d4790d0efe'}
+2025-06-27 21:37:40,443 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你好呀派蒙', 'user': 'user_1751031451', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 21:39:08,280 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你好呀派蒙', 'user': 'user_1751031541', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 21:39:27,152 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '想听听你的声音', 'user': 'user_1751031541', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '8d1f551b-ecdb-4ca8-aab7-4f9f290a2a48'}
+2025-06-27 21:39:46,467 - api_client - INFO - 检测到音频URL: https://upload.dify.ai/files/tools/a6da0e12-61d5-41dd-b68b-f52c2a58aa26.bin?timestamp=1751031586&nonce=d369b99f59971b1c4d08c8d4efd366e1&sign=kT3RK2ptVswiId8AjQTLNJoQJt6mPUIDy-DE8Ze1Tm8=
+2025-06-27 21:39:48,886 - api_client - INFO - 音频文件已下载到: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_213947.mp3
+2025-06-27 21:39:51,074 - api_client - INFO - 已开始播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_213947.mp3
+2025-06-27 21:39:55,143 - api_client - INFO - 已暂停播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_213947.mp3
+2025-06-27 21:39:55,577 - api_client - INFO - 音频播放完成: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_213947.mp3
+2025-06-27 21:39:56,300 - api_client - INFO - 已恢复播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_213947.mp3
+2025-06-27 21:40:01,233 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '可以给我画一朵花吗', 'user': 'user_1751031541', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '8d1f551b-ecdb-4ca8-aab7-4f9f290a2a48'}
+2025-06-27 21:40:12,230 - api_client - INFO - 已暂停播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_213947.mp3
+2025-06-27 21:40:24,269 - api_client - INFO - 检测到图片URL: https://upload.dify.ai/files/tools/214dd4e4-f495-4532-839d-d2c87f91f35f.jpg?timestamp=1751031624&nonce=87e8b8f672ee54205708bc0f156ab907&sign=SfFoxwVwduYraEmj4kVeid3AD4uhoHIsxYq9lN3zj3Y=
+2025-06-27 21:40:25,936 - api_client - INFO - 图片文件已下载到: d:\AI基础大作业\AgentFromPku\downloads\image_20250627_214025.jpg
+2025-06-27 21:40:30,066 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '想去燕南园看看，你带我去', 'user': 'user_1751031541', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '8d1f551b-ecdb-4ca8-aab7-4f9f290a2a48'}
+2025-06-27 21:40:36,686 - scene_switcher - INFO - 检测场景切换，原始内容: *切换地点*[燕南园]...
+2025-06-27 21:40:36,687 - scene_switcher - INFO - 切换到场景: 燕南园, 使用背景: bk1.jpg
+2025-06-27 21:40:36,753 - ui_builder - INFO - 背景已切换到: bk1.jpg
+2025-06-27 21:40:36,754 - api_client - INFO - API 密钥已更新为: app-7iOV2ODglkRwDmtw0UG82Xyn
+2025-06-27 21:40:42,480 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '您好！', 'user': 'user_1751031541', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 21:41:02,645 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '您是谁呀', 'user': 'user_1751031541', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': 'bc431fb7-fcb2-4308-978a-f371b734d104'}
+2025-06-27 21:41:21,708 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '您可以说话吗', 'user': 'user_1751031541', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': 'bc431fb7-fcb2-4308-978a-f371b734d104'}
+2025-06-27 21:41:54,943 - api_client - INFO - 检测到音频URL: https://upload.dify.ai/files/tools/72f60e56-51ec-4166-b8a6-3359556bc564.bin?timestamp=1751031714&nonce=58881738aad64079850a6a709daa816c&sign=9JPH6hFlbUgMJLcalbR1yg8NKaCAHmclMaiEofP_t3E=
+2025-06-27 21:41:57,253 - api_client - INFO - 音频文件已下载到: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_214156.mp3
+2025-06-27 21:41:58,875 - api_client - INFO - 已开始播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_214156.mp3
+2025-06-27 21:42:01,259 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '现在的学生为了高绩点，GPA十分焦灼，您怎么看', 'user': 'user_1751031541', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': 'bc431fb7-fcb2-4308-978a-f371b734d104'}
+2025-06-27 21:42:28,293 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '派蒙派蒙，我想去勺园看看', 'user': 'user_1751031541', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': 'bc431fb7-fcb2-4308-978a-f371b734d104'}
+2025-06-27 21:42:35,206 - api_client - INFO - 已暂停播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_214156.mp3
+2025-06-27 21:42:35,308 - scene_switcher - INFO - 检测场景切换，原始内容: *切换地点*[勺园]...
+2025-06-27 21:42:35,308 - scene_switcher - INFO - 切换到场景: 勺园, 使用背景: swtsdx.jpg
+2025-06-27 21:42:35,401 - api_client - INFO - 音频播放完成: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_214156.mp3
+2025-06-27 21:42:35,899 - ui_builder - INFO - 背景已切换到: swtsdx.jpg
+2025-06-27 21:42:35,899 - api_client - INFO - API 密钥已更新为: app-8BUmPGWm8RBjYPz0LUhTSKZ4
+2025-06-27 21:42:43,334 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '您好，您是', 'user': 'user_1751031541', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 21:43:07,282 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '那您也会作诗吗', 'user': 'user_1751031541', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '9940e604-345e-45b4-81a1-e71d4852a635'}
+2025-06-27 21:43:37,386 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '派蒙派蒙，我要逛未名湖', 'user': 'user_1751031541', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '9940e604-345e-45b4-81a1-e71d4852a635'}
+2025-06-27 21:43:43,673 - scene_switcher - INFO - 检测场景切换，原始内容: *切换地点*[未名湖]...
+2025-06-27 21:43:43,673 - scene_switcher - INFO - 切换到场景: 未名湖, 使用背景: wmlake.jpg
+2025-06-27 21:43:43,928 - ui_builder - INFO - 背景已切换到: wmlake.jpg
+2025-06-27 21:43:43,929 - api_client - INFO - API 密钥已更新为: app-eYBWmk5QOSquiwwjBtMp2liR
+2025-06-27 21:43:53,008 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '咦，你是谁，怎么没有照片', 'user': 'user_1751031541', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 21:44:20,851 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '听说你在做一个软件，是干什么的呀', 'user': 'user_1751031541', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': 'ac7b1c5a-1569-4a3b-9114-de2ad9b1ae47'}
+2025-06-27 21:44:58,143 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '嗷嗷，你可以给我讲个笑话听听吗', 'user': 'user_1751031541', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': 'ac7b1c5a-1569-4a3b-9114-de2ad9b1ae47'}
+2025-06-27 21:45:24,186 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '我听不到哎', 'user': 'user_1751031541', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': 'ac7b1c5a-1569-4a3b-9114-de2ad9b1ae47'}
+2025-06-27 21:45:27,501 - ui_builder - INFO - 背景已切换到: background.jpg
+2025-06-27 21:45:44,229 - api_client - INFO - 检测到音频URL: https://upload.dify.ai/files/tools/fb5bb6bb-4c2a-4867-afeb-1bccccb9c327.bin?timestamp=1751031944&nonce=5fabda1c1aaecd108f10fd271512f08e&sign=kpRQ_OtaGMMbYF_rCcKNKZ-okG6Ybp4EBaNWTVn1H1E=
+2025-06-27 21:45:46,303 - api_client - INFO - 音频文件已下载到: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_214545.mp3
+2025-06-27 21:47:58,722 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你好', 'user': 'user_1751031541', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': 'ac7b1c5a-1569-4a3b-9114-de2ad9b1ae47'}
+2025-06-27 21:48:31,021 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你好呀', 'user': 'user_1751032105', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 21:48:45,663 - ui_builder - INFO - 背景已切换到: background.jpg
+2025-06-27 21:48:52,496 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你好', 'user': 'user_1751032105', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 21:50:15,912 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你好呀派蒙', 'user': 'user_1751032206', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 21:51:31,491 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你好呀派蒙', 'user': 'user_1751032282', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 21:51:50,128 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '想听听你的声音', 'user': 'user_1751032282', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '910a0088-5719-437f-9f30-ff0add527597'}
+2025-06-27 21:52:06,146 - api_client - INFO - 检测到音频URL: https://upload.dify.ai/files/tools/2da0103c-3bf9-40cb-ab5e-1fe6c1af40d4.bin?timestamp=1751032325&nonce=824d9a78f1128fdf0b56dd5dc26159de&sign=tIkhtauqrNd5NqnZ7tXghUwRmKiuGCEYXyIomasfqHA=
+2025-06-27 21:52:08,106 - api_client - INFO - 音频文件已下载到: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_215207.mp3
+2025-06-27 21:52:10,106 - api_client - INFO - 已开始播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_215207.mp3
+2025-06-27 21:52:11,653 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '可以给我画朵花吗', 'user': 'user_1751032282', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '910a0088-5719-437f-9f30-ff0add527597'}
+2025-06-27 21:52:24,199 - api_client - INFO - 已暂停播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_215207.mp3
+2025-06-27 21:52:24,616 - api_client - INFO - 音频播放完成: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_215207.mp3
+2025-06-27 21:52:29,066 - api_client - INFO - 检测到图片URL: https://upload.dify.ai/files/tools/4f763fdd-0617-4e7f-88da-0c17f85329ff.jpg?timestamp=1751032348&nonce=fb042555a55ef05a93b893b152c89de7&sign=DibkzcERpCwSG0SEvVtx7CkTKGpSpN6OeiuiC7Oat-I=
+2025-06-27 21:52:31,287 - api_client - INFO - 图片文件已下载到: d:\AI基础大作业\AgentFromPku\downloads\image_20250627_215231.jpg
+2025-06-27 21:52:42,458 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '想去燕南园，带我去燕南园', 'user': 'user_1751032282', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '910a0088-5719-437f-9f30-ff0add527597'}
+2025-06-27 21:52:49,645 - scene_switcher - INFO - 检测场景切换，原始内容: *切换地点*[燕南园]...
+2025-06-27 21:52:49,645 - scene_switcher - INFO - 切换到场景: 燕南园, 使用背景: bk1.jpg
+2025-06-27 21:52:49,726 - ui_builder - INFO - 背景已切换到: bk1.jpg
+2025-06-27 21:52:49,726 - api_client - INFO - API 密钥已更新为: app-7iOV2ODglkRwDmtw0UG82Xyn
+2025-06-27 21:53:54,590 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你好呀派蒙', 'user': 'user_1751032428', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 21:54:24,005 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '想听听你的声音', 'user': 'user_1751032428', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '0d39e64f-0bef-4b85-aa23-db4701c9734d'}
+2025-06-27 21:54:48,910 - api_client - INFO - 检测到音频URL: https://upload.dify.ai/files/tools/1859e6c9-bf92-4701-895a-afda18bb33e0.bin?timestamp=1751032488&nonce=6344d32e7b7a8cd9d93fec7216f2408a&sign=tOgAmJUUS8LTBPfi2LR9Lc8HGnyOi-Wps07q8BZnMsU=
+2025-06-27 21:54:51,104 - api_client - INFO - 音频文件已下载到: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_215450.mp3
+2025-06-27 21:54:57,480 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '可以给我画朵花吗', 'user': 'user_1751032428', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '0d39e64f-0bef-4b85-aa23-db4701c9734d'}
+2025-06-27 21:54:59,048 - api_client - INFO - 已开始播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_215450.mp3
+2025-06-27 21:55:28,106 - api_client - INFO - 检测到图片URL: https://upload.dify.ai/files/tools/9aba02a0-7bcb-4f13-8016-c53680f7f1be.jpg?timestamp=1751032527&nonce=ce4313a0586bb31d7f742c79b0a448fc&sign=0X44TwLUbzIHrRmqO2kmJxDccqkYi_K9xCaJ60muyDk=
+2025-06-27 21:55:29,789 - api_client - INFO - 图片文件已下载到: d:\AI基础大作业\AgentFromPku\downloads\image_20250627_215529.jpg
+2025-06-27 21:55:44,433 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '我想去燕南园', 'user': 'user_1751032428', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '0d39e64f-0bef-4b85-aa23-db4701c9734d'}
+2025-06-27 21:55:48,406 - ui_builder - INFO - 背景已切换到: background.jpg
+2025-06-27 21:55:49,221 - ui_builder - INFO - 背景已切换到: background.jpg
+2025-06-27 21:55:49,575 - ui_builder - INFO - 背景已切换到: background.jpg
+2025-06-27 21:55:49,779 - ui_builder - INFO - 背景已切换到: background.jpg
+2025-06-27 21:55:51,436 - scene_switcher - INFO - 检测场景切换，原始内容: *切换地点*[燕南园]...
+2025-06-27 21:55:51,437 - scene_switcher - INFO - 切换到场景: 燕南园, 使用背景: bk1.jpg
+2025-06-27 21:55:51,506 - ui_builder - INFO - 背景已切换到: bk1.jpg
+2025-06-27 21:55:51,506 - api_client - INFO - API 密钥已更新为: app-7iOV2ODglkRwDmtw0UG82Xyn
+2025-06-27 21:55:54,159 - ui_builder - INFO - 背景已切换到: background.jpg
+2025-06-27 21:55:58,223 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你好', 'user': 'user_1751032428', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 21:56:21,079 - ui_builder - INFO - 背景已切换到: background.jpg
+2025-06-27 21:56:26,077 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你好呀', 'user': 'user_1751032428', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 21:57:52,768 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你好呀派蒙', 'user': 'user_1751032664', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 21:58:10,960 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '想听听你的声音', 'user': 'user_1751032664', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': 'd638edf2-20f0-46f2-837b-ddb7f22d357b'}
+2025-06-27 21:58:39,133 - api_client - INFO - 检测到音频URL: https://upload.dify.ai/files/tools/237ecdc4-4517-48c5-bebd-8ba65d0195e4.bin?timestamp=1751032718&nonce=18e1ad3093d0368d7844ced778a5f088&sign=WIDTUIqCIs0HiqvMEptJlyh9TmPkznmKjTkpEVmCsFY=
+2025-06-27 21:58:41,311 - api_client - INFO - 音频文件已下载到: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_215840.mp3
+2025-06-27 21:58:49,255 - api_client - INFO - 已开始播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_215840.mp3
+2025-06-27 21:58:59,401 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '给我画一朵花', 'user': 'user_1751032664', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': 'd638edf2-20f0-46f2-837b-ddb7f22d357b'}
+2025-06-27 21:59:16,050 - api_client - INFO - 检测到图片URL: https://upload.dify.ai/files/tools/f7bcf62c-fcc5-4e40-afd2-10438c1ad576.jpg?timestamp=1751032755&nonce=5137a2f0bfb7aaf186ede389ee1cc5ca&sign=iGCgD5PFo9_AanmM5lwnjWHQstBMRF8BDNVc7m3lKoI=
+2025-06-27 21:59:17,731 - api_client - INFO - 图片文件已下载到: d:\AI基础大作业\AgentFromPku\downloads\image_20250627_215917.jpg
+2025-06-27 21:59:19,700 - api_client - INFO - 已暂停播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_215840.mp3
+2025-06-27 21:59:19,776 - api_client - INFO - 音频播放完成: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_215840.mp3
+2025-06-27 21:59:22,349 - api_client - INFO - 已恢复播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_215840.mp3
+2025-06-27 21:59:23,228 - api_client - INFO - 已暂停播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_215840.mp3
+2025-06-27 21:59:25,477 - ui_builder - INFO - 背景已切换到: background.jpg
+2025-06-27 21:59:26,445 - ui_builder - INFO - 背景已切换到: background.jpg
+2025-06-27 21:59:35,660 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '我想去燕南园', 'user': 'user_1751032664', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 21:59:42,260 - scene_switcher - INFO - 检测场景切换，原始内容: *切换地点*[燕南园]...
+2025-06-27 21:59:42,261 - scene_switcher - INFO - 切换到场景: 燕南园, 使用背景: bk1.jpg
+2025-06-27 21:59:42,341 - ui_builder - INFO - 背景已切换到: bk1.jpg
+2025-06-27 21:59:42,342 - api_client - INFO - API 密钥已更新为: app-7iOV2ODglkRwDmtw0UG82Xyn
+2025-06-27 21:59:49,253 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你好', 'user': 'user_1751032664', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 22:00:13,118 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '您是谁呀', 'user': 'user_1751032664', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '6e637565-572c-4350-b0b1-fa00b23ec6e3'}
+2025-06-27 22:00:32,778 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '您会说话吗', 'user': 'user_1751032664', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '6e637565-572c-4350-b0b1-fa00b23ec6e3'}
+2025-06-27 22:01:07,508 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '听不到哎', 'user': 'user_1751032664', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '6e637565-572c-4350-b0b1-fa00b23ec6e3'}
+2025-06-27 22:01:48,434 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你好呀派蒙', 'user': 'user_1751032888', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 22:02:05,314 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '想听听你的声音', 'user': 'user_1751032888', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '00ceb06b-07f4-457a-98d8-d87d02a2fd23'}
+2025-06-27 22:02:30,041 - api_client - INFO - 检测到音频URL: https://upload.dify.ai/files/tools/23d458c7-1f7e-40a4-824d-b1606a7cd22c.bin?timestamp=1751032949&nonce=61927992061675863116b6dd2a4364be&sign=vjUBg9r4rm8G7r_8ZYB0smNFer6cgymeGkoWnO8XTPk=
+2025-06-27 22:02:32,221 - api_client - INFO - 音频文件已下载到: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_220231.mp3
+2025-06-27 22:02:34,522 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '可以给我画一个博雅塔吗', 'user': 'user_1751032888', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '00ceb06b-07f4-457a-98d8-d87d02a2fd23'}
+2025-06-27 22:02:35,270 - api_client - INFO - 已开始播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_220231.mp3
+2025-06-27 22:02:51,299 - api_client - INFO - 已暂停播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_220231.mp3
+2025-06-27 22:02:51,781 - api_client - INFO - 音频播放完成: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_220231.mp3
+2025-06-27 22:02:52,374 - api_client - INFO - 已恢复播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_220231.mp3
+2025-06-27 22:02:54,609 - api_client - INFO - 检测到图片URL: https://upload.dify.ai/files/tools/a2c02097-f118-411b-b625-b4bca3d8a687.jpg?timestamp=1751032974&nonce=8f3998072934468bf0494636d6c36f36&sign=7mTESuA_tcWbZ3wv5EiljZ4lei3kfyz8DUcHdbFy-LU=
+2025-06-27 22:02:55,951 - api_client - INFO - 已暂停播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_220231.mp3
+2025-06-27 22:02:56,496 - api_client - INFO - 图片文件已下载到: d:\AI基础大作业\AgentFromPku\downloads\image_20250627_220256.jpg
+2025-06-27 22:03:05,695 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '我想去燕南园', 'user': 'user_1751032888', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '00ceb06b-07f4-457a-98d8-d87d02a2fd23'}
+2025-06-27 22:03:13,240 - scene_switcher - INFO - 检测场景切换，原始内容: *切换地点*[燕南园]...
+2025-06-27 22:03:13,240 - scene_switcher - INFO - 切换到场景: 燕南园, 使用背景: bk1.jpg
+2025-06-27 22:03:13,312 - ui_builder - INFO - 背景已切换到: bk1.jpg
+2025-06-27 22:03:13,313 - api_client - INFO - API 密钥已更新为: app-7iOV2ODglkRwDmtw0UG82Xyn
+2025-06-27 22:03:14,387 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '您好，您是谁呀？', 'user': 'user_1751032888', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 22:03:32,718 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '那您可以说话吗', 'user': 'user_1751032888', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': 'e8ea13dc-2f23-4489-9fb0-694152a252f8'}
+2025-06-27 22:03:57,742 - api_client - INFO - 检测到音频URL: https://upload.dify.ai/files/tools/b7fc0cd6-666b-4661-9612-c660149b817a.bin?timestamp=1751033037&nonce=f34963819e38c89006709049b5e26d7a&sign=_w64t-d2u5LNmMObv4e4QQXkUGqksfbdlyMl9ioCBZU=
+2025-06-27 22:04:00,116 - api_client - INFO - 音频文件已下载到: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_220359.mp3
+2025-06-27 22:04:01,798 - api_client - INFO - 已开始播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_220359.mp3
+2025-06-27 22:04:02,882 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '呼叫派蒙，我想去勺园看看', 'user': 'user_1751032888', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': 'e8ea13dc-2f23-4489-9fb0-694152a252f8'}
+2025-06-27 22:04:10,562 - scene_switcher - INFO - 检测场景切换，原始内容: *切换地点*[勺园]...
+2025-06-27 22:04:10,563 - scene_switcher - INFO - 切换到场景: 勺园, 使用背景: swtsdx.jpg
+2025-06-27 22:04:11,152 - ui_builder - INFO - 背景已切换到: swtsdx.jpg
+2025-06-27 22:04:11,153 - api_client - INFO - API 密钥已更新为: app-8BUmPGWm8RBjYPz0LUhTSKZ4
+2025-06-27 22:04:21,137 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '呀，你是', 'user': 'user_1751032888', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 22:04:38,509 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '那你会写诗吗', 'user': 'user_1751032888', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '0f481448-6aa6-41eb-b895-63c565ff4aae'}
+2025-06-27 22:05:08,900 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '我想去未名湖看看', 'user': 'user_1751032888', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': '0f481448-6aa6-41eb-b895-63c565ff4aae'}
+2025-06-27 22:05:16,645 - scene_switcher - INFO - 检测场景切换，原始内容: *切换地点*[未名湖]...
+2025-06-27 22:05:16,645 - scene_switcher - INFO - 切换到场景: 未名湖, 使用背景: wmlake.jpg
+2025-06-27 22:05:16,926 - ui_builder - INFO - 背景已切换到: wmlake.jpg
+2025-06-27 22:05:16,927 - api_client - INFO - API 密钥已更新为: app-eYBWmk5QOSquiwwjBtMp2liR
+2025-06-27 22:05:25,392 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你是谁，怎么没照片', 'user': 'user_1751032888', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 22:05:42,494 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '给我说个笑话听听', 'user': 'user_1751032888', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': 'a7b67a88-39ad-48ba-ae81-79fcd1a18121'}
+2025-06-27 22:06:05,888 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '听不到哎', 'user': 'user_1751032888', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': 'a7b67a88-39ad-48ba-ae81-79fcd1a18121'}
+2025-06-27 22:06:34,133 - api_client - INFO - 检测到音频URL: https://upload.dify.ai/files/tools/b907c9ad-07d2-4513-b424-3ea14e524156.bin?timestamp=1751033193&nonce=21f942fd28c8417bef50994d3a4d742f&sign=pZImoPfIVoUnZp-S0JWSqEv-usRZAo0dMGUtsOg4gYU=
+2025-06-27 22:06:36,818 - api_client - INFO - 音频文件已下载到: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_220636.mp3
+2025-06-27 22:06:38,282 - api_client - INFO - 已停止播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_220359.mp3
+2025-06-27 22:06:38,284 - api_client - INFO - 已开始播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_220636.mp3
+2025-06-27 22:06:38,404 - api_client - INFO - 音频播放完成: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_220359.mp3
+2025-06-27 22:06:53,126 - api_client - INFO - 已暂停播放音频: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_220636.mp3
+2025-06-27 22:06:53,295 - api_client - INFO - 音频播放完成: d:\AI基础大作业\AgentFromPku\downloads\audio_20250627_220636.mp3
+2025-06-27 22:07:09,545 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你玩原神吗', 'user': 'user_1751032888', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': 'a7b67a88-39ad-48ba-ae81-79fcd1a18121'}
+2025-06-27 22:07:49,375 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你好？', 'user': 'user_1751032888', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': 'a7b67a88-39ad-48ba-ae81-79fcd1a18121'}
+2025-06-27 22:08:07,181 - ui_builder - INFO - 背景已切换到: background.jpg
+2025-06-27 22:08:13,630 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你好？/', 'user': 'user_1751032888', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
+2025-06-27 22:08:32,201 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '怎么看不到文字了', 'user': 'user_1751032888', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True, 'conversation_id': 'aa192768-4d50-4071-a3ac-b255fb54d93a'}
+2025-06-28 01:00:46,826 - api_client - INFO - 发送API请求，URL：https://api.dify.ai/v1/chat-messages，请求体：{'query': '你好', 'user': 'user_1751043642', 'response_mode': 'streaming', 'inputs': {}, 'auto_generate_name': True}
