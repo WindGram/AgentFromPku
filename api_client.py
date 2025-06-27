@@ -342,7 +342,6 @@ class AgentAPIClient:
     def change_api_key(self, new_api_key):
            """修改 API 密钥"""
            self.api_key = new_api_key
-           logger.info(f"API 密钥已更新为: {new_api_key}")
 
     def _download_url_content(self, url):
         """下载URL内容到指定目录，强制使用.mp3格式"""
